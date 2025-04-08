@@ -12,7 +12,7 @@ export default [
     answers: [
       { option: "A) A influência direta da filosofia persa e indiana.", correct: false },
       { option: "B) A transformação socioeconômica da Grécia nos séculos VII e VI a.C., com o desenvolvimento da indústria artesanal e do comércio.", correct: true },
-      { option: "C) A falta de acesso a conhecimentos desenvolvidos por povos mais antigos, como os caldeus e os egípcios. D) O aumento das práticas religiosas na Grécia, vinculando o pensamento filosófico às explicações mitológicas.", correct: false },
+      { option: "C) A falta de acesso a conhecimentos desenvolvidos por povos mais antigos, como os caldeus e os egípcios.", correct: false },
     ],
   },
   {
